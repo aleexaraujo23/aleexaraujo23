@@ -1,5 +1,5 @@
 <p align="center"><b>
-Olá, bem-vindo ao meu Github 👋 &nbsp;Sou Alex 👨‍💻
+Olá, bem-vindo ao meu Github 👋 👨‍💻
 </p>
 
 Sou Analista de Sistemas, trabalho com desenvolvimento de software. Me desafiando e aventurando em JAVA, Web Services, SQL, Python, JS, HTML, Ruby on Rails ...
