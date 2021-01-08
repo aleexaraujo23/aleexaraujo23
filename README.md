@@ -2,7 +2,7 @@
 Olá, bem-vindo ao meu Github 👋 👨‍💻
 </p>
 
-Sou Analista de Sistemas, trabalho com desenvolvimento de software. Me desafiando e aventurando em JAVA, Web Services, SQL, Python, JS, HTML, Ruby on Rails ...
+Sou Analista Desenvolvedor, trabalho com desenvolvimento de software. Me desafiando com grande conhecimento em JAVA, aventurando e aprofundando em Web Services, SQL, Python...
 
 # 
 <p align="center">
@@ -15,7 +15,7 @@ Sou Analista de Sistemas, trabalho com desenvolvimento de software. Me desafiand
 </a>  
 </p>
 
-<p> - 👨‍💻  &nbsp; Atualmente trabalho no DNIT.</p>
+<p> - 👨‍💻  &nbsp; Atualmente trabalho na DataInfo - TJMT.</p>
 <p> - 🤓  &nbsp; Tenho buscado conhecimentos em Linguagens Web.</p>
 <p> - 🦆  &nbsp; Aberto a novos Desafios e Pronto a Colaborar.</p>
 <p> - 📬  &nbsp; Como me encontrar: <a href = "mailto:alex_araujo09@hotmail.com">Enviar Email</a></p>
