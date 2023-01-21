@@ -2,7 +2,7 @@
 Olá, bem-vindo ao meu Github 👋 👨‍💻
 </p>
 
-Sou Analista Desenvolvedor, trabalho com desenvolvimento de software. Me desafiando com grande conhecimento em JAVA, aventurando e aprofundando em Web Services, SQL, Python...
+Sou Analista Desenvolvedor, trabalho com desenvolvimento de software. Me desafiando com grande conhecimento em JAVA, aventurando e aprofundando em Web Services, Banco de dados, Java Script, Angular, Git, Jenkins, Docker...
 
 # 
 <p align="center">
