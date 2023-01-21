@@ -15,7 +15,7 @@ Sou Analista Desenvolvedor, trabalho com desenvolvimento de software. Me desafia
 </a>  
 </p>
 
-<p> - 👨‍💻  &nbsp; Atualmente trabalho na DataInfo - TJMT.</p>
+<p> - 👨‍💻  &nbsp; Atualmente trabalho no TJMT.</p>
 <p> - 🤓  &nbsp; Tenho buscado conhecimentos em Linguagens Web.</p>
 <p> - 🦆  &nbsp; Aberto a novos Desafios e Pronto a Colaborar.</p>
 <p> - 📬  &nbsp; Como me encontrar: <a href = "mailto:alex_araujo09@hotmail.com">Enviar Email</a></p>
